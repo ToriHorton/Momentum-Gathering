@@ -1,0 +1,13 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Momentum Gathering · Mark · Dark Background -->
+  <rect width="200" height="200" fill="#000000"/>
+  <g transform="translate(100,100)">
+    <path d="M3 -8 C8 -18, 22 -35, 28 -52 C32 -62, 24 -70, 14 -65 C4 -60, -4 -45, -6 -30 C-8 -18, -4 -10, 3 -8z"
+          fill="#F08E80" opacity="0.9" transform="rotate(0)"/>
+    <path d="M3 -8 C8 -18, 22 -35, 28 -52 C32 -62, 24 -70, 14 -65 C4 -60, -4 -45, -6 -30 C-8 -18, -4 -10, 3 -8z"
+          fill="#F08E80" opacity="0.6" transform="rotate(120)"/>
+    <path d="M3 -8 C8 -18, 22 -35, 28 -52 C32 -62, 24 -70, 14 -65 C4 -60, -4 -45, -6 -30 C-8 -18, -4 -10, 3 -8z"
+          fill="#F08E80" opacity="0.35" transform="rotate(240)"/>
+    <circle cx="0" cy="0" r="7" fill="#FDF0E6" opacity="0.85"/>
+  </g>
+</svg>
